@@ -1,0 +1,560 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-02-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-05-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-05-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-07-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-06-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-05-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-05-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-05-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-05-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Accordion",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-01-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-03-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-02-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        },
+        {
+          "url": "https://nominis.cef.fr/contenus/statistiques.html",
+          "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+          "uuid": "8cfd378f-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Seach (minimal)",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+          "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+          "uuid": "f1bd0046-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-02-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/liens.html",
+          "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+          "uuid": "929eb9b2-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-02-07c557d6636fc1961324aaf292245586a3c75f16",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-05-d72caa907dc624342957e5b0bf1f3f76c63d7ee7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns (two columns)",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-04-25156e45cf580cb407f7d5e554bbc7a01edbcdc5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/glossaire.html",
+          "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+          "uuid": "cfed4eed-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Video w/ autoplay variant",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/bouquins.html",
+          "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+          "uuid": "96a25703-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Seach (minimal)",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/contenus/histoire.html",
+          "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+          "uuid": "94c42b8d-00-0ea0ae5ba1245dfb496167ef99f1633fc53b06ae",
+          "xpath": "/html[1]/body[1]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns (three columns)",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://nominis.cef.fr/",
+          "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+          "uuid": "658737fb-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://nominis.cef.fr/",
+      "urlHash": "658737fb004024da45c0611b55bfe4cc94d5d836",
+      "uuid": "658737fb-02-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/statistiques.html",
+      "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+      "uuid": "8cfd378f-02-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/statistiques.html",
+      "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+      "uuid": "8cfd378f-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/statistiques.html",
+      "urlHash": "8cfd378fc3dc40312c0ee135203a669ff8287c54",
+      "uuid": "8cfd378f-05-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/liens.html",
+      "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+      "uuid": "929eb9b2-02-07c557d6636fc1961324aaf292245586a3c75f16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/liens.html",
+      "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+      "uuid": "929eb9b2-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/liens.html",
+      "urlHash": "929eb9b211d692950b406d069b80a134219a8427",
+      "uuid": "929eb9b2-05-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/histoire.html",
+      "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+      "uuid": "94c42b8d-02-9f9d9ce38d3da8f63ade6e7fd1118acccf29b15d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/histoire.html",
+      "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+      "uuid": "94c42b8d-03-205ab6b6402cb804c6a4c6e47ab8d986309382b6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/histoire.html",
+      "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+      "uuid": "94c42b8d-06-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/histoire.html",
+      "urlHash": "94c42b8deace454180ba89dc2913b39d33195667",
+      "uuid": "94c42b8d-07-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/bouquins.html",
+      "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+      "uuid": "96a25703-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/bouquins.html",
+      "urlHash": "96a257039336157f755b5aa0ead783b3fc345ea1",
+      "uuid": "96a25703-05-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/glossaire.html",
+      "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+      "uuid": "cfed4eed-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/glossaire.html",
+      "urlHash": "cfed4eed79bf2ddae23a52c99bd73e7818e7a713",
+      "uuid": "cfed4eed-05-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+      "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+      "uuid": "f1bd0046-04-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+      "xpath": "/html[1]/body[1]/div[3]"
+    },
+    {
+      "url": "https://nominis.cef.fr/contenus/saint/thaumaturges.html",
+      "urlHash": "f1bd00464ea5fa23b30b8a58926a2382bca69944",
+      "uuid": "f1bd0046-05-6419c5482dba87d55497e10067ddb965e78fe885",
+      "xpath": "/html[1]/body[1]/div[2]"
+    }
+  ]
+}
